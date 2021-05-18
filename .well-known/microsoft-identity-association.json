@@ -2,6 +2,9 @@
   "associatedApplications": [
     {
       "applicationId": "336478a5-1e66-4a9a-be4b-32496d4c0654"
-    }
+    },
+		{
+			"applicationId":"2fa68466-cead-45be-9f7c-3c641ec2196f"
+		}
   ]
 }
